@@ -13,8 +13,6 @@ class Song
     @@artists = []
   end 
   
-  def artists 
-    @@artists
-  end 
+ 
   
 end 
